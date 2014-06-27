@@ -12,4 +12,7 @@ gaseosa con limon
 * coger gaseosa
 * coger limon
 * mezclarlo
-* 
+ 
+
+
+Arreglado
